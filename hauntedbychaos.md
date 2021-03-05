@@ -4,9 +4,67 @@ It is tempting to think that <a href="https://www.wsj.com/articles/chinas-wolf-w
 
 It was not always like this. Chinese diplomats followed the idea of "Hide your capacities, bide your time" where they maintained a low profile and stayed out of the news. But what really was their intent, what was the *logic* behind this? Sulmaan Wasif Khan's book [Haunted by Chaos](https://www.amazon.com/Haunted-Chaos-Chinas-Strategy-Jinping/dp/0674977092) answers this very question 
 
-## Insecurity
+# Chaos
 
-Imagine being Mao Zedong in 1949. You've grown up In China from 1893 to 1949. 
+## Qing Dynasty
+
+Imagine being a Chinese citizen through the 19th and 20th centuries The Qinq dyansty was humiliated.  Foreign powers came and addicted your citizenry to opium. Then they lose not one but *two*  Opium wars while having a 10x advantage over the British. In this they lost parts of Hong Kong and were forced to sign unequal trading treaties with the British. In between all of this was a civil war called the Taiping Rebellion which killed between 20 and 70 million people. 
+
+They they lost almost 2 million square kilometres of land because the Russians threatened to start another war. Around 20 years later they lost Taiwan.
+
+ Just 11 years after this war you've gotten some peace and stability but there is another uprising in Wuchang that threatens to end the dynasty. This uprising spreads across the country and becomes a rebellion.  In between the year 1911 and 1912 there are 38 internal rebellions, with around 200,000 people dying in them. This monarchy is dying, with complete chaos in the country.
+
+## Republic of China
+
+This rebellion is successful, and a new republic is announced. This new Republic isn't doing too well either. To begin with, they aren't very "republic"-like. In the first democratic election, one of the candidates was assasinated. They could not even hold elections in Tibet and Outer Mongolia because they didn't have enough control over the states. Four years after the Republic is formed, the leader Yuan Shikai (who also was the assasin two sentences ago) died and another person Sun Yat-Sen became president. To cut a long story short the Republic of China, struggled for a long long time. They could not exercise power over the country, with rebellion and resistance all over. 
+
+To put it in short: China was chaotic for a majority of the 19th and early 20th centuries
+
+# Communist Chaos
+
+While the ROC's army was going around 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
