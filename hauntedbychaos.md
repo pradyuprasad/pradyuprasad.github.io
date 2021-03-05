@@ -2,7 +2,11 @@
 
 It is tempting to think that <a href="https://www.wsj.com/articles/chinas-wolf-warrior-diplomats-are-ready-to-fight-11589896722?mod=article_inline"> China's Wolf Warrior diplomats </a> have no idea what they're doing. Sometimes they tell <a href="[https://news.yahoo.com/put-mask-shut-chinas-undiplomatic-182915843.html"> Venezuelan lawmakers to "wear the masks and shut up" </a> . Or they're busy saying COVID-19 <a href="https://twitter.com/zlj517/status/1238269193427906560"> could have come from an American lab </a>. Whatever they do, they're in the middle of anything and everything. 
 
-It was not always like this. Chinese diplomats followed the idea of "Hide your capacities, bide your time" where they maintained a low profile and stayed out of the news. But what really was their intent, what was the *logic* behind this? Sulmaan Wasif Khan's book [Haunted by Chaos](https://www.amazon.com/Haunted-Chaos-Chinas-Strategy-Jinping/dp/0674977092) answers this very question 
+It was not always like this. Chinese diplomats followed the idea of "Hide your capacities, bide your time" where they maintained a low profile and stayed out of the news. But what really was their intent, what was the *logic* behind this? Sulmaan Wasif Khan's book [Haunted by Chaos](https://www.amazon.com/Haunted-Chaos-Chinas-Strategy-Jinping/dp/0674977092) answers this very question. 
+
+
+
+But, before we get into the book its important to understand the actual  pandemonium that was 19th and 20th century China. 
 
 # Chaos
 
@@ -18,11 +22,9 @@ They they lost almost 2 million square kilometres of land because the Russians t
 
 This rebellion is successful, and a new republic is announced. This new Republic isn't doing too well either. To begin with, they aren't very "republic"-like. In the first democratic election, one of the candidates was assasinated. They could not even hold elections in Tibet and Outer Mongolia because they didn't have enough control over the states. Four years after the Republic is formed, the leader Yuan Shikai (who also was the assasin two sentences ago) died and another person Sun Yat-Sen became president. To cut a long story short the Republic of China, struggled for a long long time. They could not exercise power over the country, with rebellion and resistance all over. 
 
-To put it in short: China was chaotic for a majority of the 19th and early 20th centuries
-
 # Communist Chaos
 
-While the ROC's army was going around 
+While the ROC's army was going around trying to stop the scores of local overlords trying to defect, a new political party was being built in China - the Chinese Communist Party (CCP). They had their first meeting between 23 and 31st July 1921. In 1923, the Soviets sent people to China to establish communism. Initially the CCP and the KMT (Kuomintang - the party that was heading the Ghangzhou government at the time and later the enemy of the CCP in the Civil War)
 
 
 
