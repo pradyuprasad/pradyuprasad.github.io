@@ -9,7 +9,8 @@ body {
   margin: 3% var(--mright) 5% var(--mleft);
 
   color: #cccccc;
-  background-color: #000000;
+  background-color: #111010;
+  text-align: justify;
 }
 
 #main {
@@ -21,5 +22,30 @@ h1 {
 }
 
 .heading {
-  font-size: 40pt;
+  font-size: 35pt;
+  text-align: center;
 }
+
+a {
+  color: white;
+  \
+}
+a:hover {
+  color: gray;
+}
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  top: 10%;
+}
+
+.sidebar a{
+  color:#e3e3e3;
+  padding: 10px;
+}
+@media  (max-width: 560px){
+  .sidebar{
+    visibility: hidden;
+  }
